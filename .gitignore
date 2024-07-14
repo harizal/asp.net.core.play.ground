@@ -1,0 +1,8 @@
+Project.Core/bin/*
+Project.Core/obj/*
+/bin/*
+Project.Infrastructure/bin/*
+Project.Infrastructure/obj/*
+Project.Web/bin/*
+Project.Web/obj/*
+Projects/.vs/*
