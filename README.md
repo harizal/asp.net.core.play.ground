@@ -1,0 +1,11 @@
+- Order List App
+  - Blazor 
+  - Auth API
+  	- JWT
+  	- ...
+  - Product API
+    - ...
+  - Order Service
+    - ...
+ - RabbitMQ
+ - SignalR
